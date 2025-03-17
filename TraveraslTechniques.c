@@ -77,8 +77,7 @@ int main(){
     dfs(0,n);
     bfs(0,n);
 
-    // for(int i=0; i<=top; i++)
-    //     printf("%d ",stack[i]);
+    
 
 
 
